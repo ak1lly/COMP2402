@@ -9,13 +9,10 @@ Source Files:
 p1.
   SSet.java
   IndexedSSet.java
+  DefaultComparator.java
   SkipptyFast.java
   SkippitySlow.java
-  
-
-Compilation Command: gcc -Wall -o a1 a1-Shakil.c
-
-Launching instructions: No user input or interaction is required, simply start 
-the program using: ./a1 
+p2.
+  BinaryTree.java
 ----------------------------------------------------------------------------------------------------
 
