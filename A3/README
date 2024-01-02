@@ -1,19 +1,17 @@
 ----------------------------------------------------------------------------------------------------
 Program Author: Shakil Muhammad (101259661)
 
-Purpose: A simple simulation of Timmy and Harolds escape from dragons hollow. 
-Both heroes start from [MAX_ROW-1][0] and make their way rigth-wrd from the entrance 
-to the exit, avoiding downward moving birds. If a hero and a bird collide, the hero dies.
-All avatar movements are randomly generated.
-
-Header Files:
-<stdio.h>
-<stdlib.h>
-<unistd.h>
-<time.h>
+Purpose: 2 main parts
+  1. Efficinet implementation of the SkipList Interface
+  2. Binary tree traversal
 
 Source Files:
-a1-Shakil.c
+p1.
+  SSet.java
+  IndexedSSet.java
+  SkipptyFast.java
+  SkippitySlow.java
+  
 
 Compilation Command: gcc -Wall -o a1 a1-Shakil.c
 
