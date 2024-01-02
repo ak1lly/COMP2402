@@ -1,23 +1,12 @@
 ----------------------------------------------------------------------------------------------------
 Program Author: Shakil Muhammad (101259661)
 
-Purpose: A simple simulation of Timmy and Harolds escape from dragons hollow. 
-Both heroes start from [MAX_ROW-1][0] and make their way rigth-wrd from the entrance 
-to the exit, avoiding downward moving birds. If a hero and a bird collide, the hero dies.
-All avatar movements are randomly generated.
-
-Header Files:
-<stdio.h>
-<stdlib.h>
-<unistd.h>
-<time.h>
+Purpose: A space and time efficient implementation of a BinaryHeap using the Eyzinger method, 
+with max() and ksum() funcitonality
 
 Source Files:
-a1-Shakil.c
-
-Compilation Command: gcc -Wall -o a1 a1-Shakil.c
-
-Launching instructions: No user input or interaction is required, simply start 
-the program using: ./a1 
+UltraFast.java
+UltraSlow.java
+UltraStack.java
 ----------------------------------------------------------------------------------------------------
 
